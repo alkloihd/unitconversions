@@ -1,0 +1,1353 @@
+[
+    {
+      "id": "Q1",
+      "level": 1,
+      "questionType": "typeIn",
+      "question": "Convert 5 cm to mm",
+      "correctAnswer": "50",
+      "choices": [],
+      "hint": "Remember: 1 cm = 10 mm"
+    },
+    {
+      "id": "Q2",
+      "level": 1,
+      "questionType": "multipleChoice",
+      "question": "Which is larger: 2 dm or 20 cm?",
+      "correctAnswer": "They are equal",
+      "choices": ["2 dm is larger", "They are equal", "20 cm is larger"],
+      "hint": "Hint: 1 dm = 10 cm"
+    },
+    {
+      "id": "Q3",
+      "level": 1,
+      "questionType": "typeIn",
+      "question": "Convert 30 mm to cm",
+      "correctAnswer": "3",
+      "choices": [],
+      "hint": "Remember: 10 mm = 1 cm"
+    },
+    {
+      "id": "Q4",
+      "level": 1,
+      "questionType": "multipleChoice",
+      "question": "How many mm are in 9 cm?",
+      "correctAnswer": "90",
+      "choices": ["900", "9", "90", "0.9"],
+      "hint": "Multiply by 10"
+    },
+    {
+      "id": "Q5",
+      "level": 1,
+      "questionType": "typeIn",
+      "question": "Convert 1 dm to cm",
+      "correctAnswer": "10",
+      "choices": [],
+      "hint": "1 dm = 10 cm"
+    },
+    {
+      "id": "Q6",
+      "level": 1,
+      "questionType": "typeIn",
+      "question": "Convert 2 dm to mm",
+      "correctAnswer": "200",
+      "choices": [],
+      "hint": "1 dm = 100 mm"
+    },
+    {
+      "id": "Q7",
+      "level": 1,
+      "questionType": "multipleChoice",
+      "question": "Which is bigger: 1 dm or 12 cm?",
+      "correctAnswer": "12 cm is bigger",
+      "choices": ["1 dm is bigger", "They are equal", "12 cm is bigger"],
+      "hint": "1 dm = 10 cm"
+    },
+    {
+      "id": "Q8",
+      "level": 1,
+      "questionType": "typeIn",
+      "question": "Convert 100 cm to dm",
+      "correctAnswer": "10",
+      "choices": [],
+      "hint": "Divide by 10"
+    },
+    {
+      "id": "Q9",
+      "level": 1,
+      "questionType": "multipleChoice",
+      "question": "Convert 7 dm to cm",
+      "correctAnswer": "70",
+      "choices": ["0.7", "70", "700"],
+      "hint": "Multiply by 10"
+    },
+    {
+      "id": "Q10",
+      "level": 1,
+      "questionType": "typeIn",
+      "question": "Convert 25 cm to mm",
+      "correctAnswer": "250",
+      "choices": [],
+      "hint": "Multiply by 10"
+    },
+    {
+      "id": "Q11",
+      "level": 1,
+      "questionType": "typeIn",
+      "question": "Convert 3 dm to cm",
+      "correctAnswer": "30",
+      "choices": [],
+      "hint": "Multiply by 10"
+    },
+    {
+      "id": "Q12",
+      "level": 1,
+      "questionType": "multipleChoice",
+      "question": "Which is smaller: 15 cm or 1.5 dm?",
+      "correctAnswer": "They are the same",
+      "choices": ["15 cm is smaller", "They are the same", "1.5 dm is smaller"],
+      "hint": "1 dm = 10 cm"
+    },
+    {
+      "id": "Q13",
+      "level": 1,
+      "questionType": "typeIn",
+      "question": "Convert 100 mm to cm",
+      "correctAnswer": "10",
+      "choices": [],
+      "hint": "10 mm = 1 cm"
+    },
+    {
+      "id": "Q14",
+      "level": 1,
+      "questionType": "multipleChoice",
+      "question": "Convert 8 cm to mm",
+      "correctAnswer": "80",
+      "choices": ["80", "0.8", "800"],
+      "hint": "Multiply by 10"
+    },
+    {
+      "id": "Q15",
+      "level": 1,
+      "questionType": "typeIn",
+      "question": "Convert 5 dm to cm",
+      "correctAnswer": "50",
+      "choices": [],
+      "hint": "Multiply by 10"
+    },
+    {
+      "id": "Q16",
+      "level": 2,
+      "questionType": "typeIn",
+      "question": "Convert 2 m to cm",
+      "correctAnswer": "200",
+      "choices": [],
+      "hint": "1 m = 100 cm"
+    },
+    {
+      "id": "Q17",
+      "level": 2,
+      "questionType": "multipleChoice",
+      "question": "How many m are in 350 cm?",
+      "correctAnswer": "3.5",
+      "choices": ["35", "3.5", "0.35"],
+      "hint": "Divide by 100"
+    },
+    {
+      "id": "Q18",
+      "level": 2,
+      "questionType": "typeIn",
+      "question": "Convert 4 m to mm",
+      "correctAnswer": "4000",
+      "choices": [],
+      "hint": "1 m = 1000 mm"
+    },
+    {
+      "id": "Q19",
+      "level": 2,
+      "questionType": "multipleChoice",
+      "question": "Which is larger: 3.5 dm or 35 cm?",
+      "correctAnswer": "They are the same",
+      "choices": ["3.5 dm is larger", "They are the same", "35 cm is larger"],
+      "hint": "1 dm = 10 cm"
+    },
+    {
+      "id": "Q20",
+      "level": 2,
+      "questionType": "typeIn",
+      "question": "Convert 1.5 m to cm",
+      "correctAnswer": "150",
+      "choices": [],
+      "hint": "Multiply by 100"
+    },
+    {
+      "id": "Q21",
+      "level": 2,
+      "questionType": "typeIn",
+      "question": "Convert 3 m to mm",
+      "correctAnswer": "3000",
+      "choices": [],
+      "hint": "1 m = 1000 mm"
+    },
+    {
+      "id": "Q22",
+      "level": 2,
+      "questionType": "multipleChoice",
+      "question": "How many cm are in 0.5 m?",
+      "correctAnswer": "50",
+      "choices": ["5", "50", "500"],
+      "hint": "Multiply 0.5 by 100"
+    },
+    {
+      "id": "Q23",
+      "level": 2,
+      "questionType": "typeIn",
+      "question": "Convert 120 cm to m",
+      "correctAnswer": "1.2",
+      "choices": [],
+      "hint": "Divide by 100"
+    },
+    {
+      "id": "Q24",
+      "level": 2,
+      "questionType": "multipleChoice",
+      "question": "Convert 2500 mm to m",
+      "correctAnswer": "2.5",
+      "choices": ["0.25", "2.5", "25"],
+      "hint": "Divide by 1000"
+    },
+    {
+      "id": "Q25",
+      "level": 2,
+      "questionType": "typeIn",
+      "question": "Convert 0.8 m to cm",
+      "correctAnswer": "80",
+      "choices": [],
+      "hint": "Multiply by 100"
+    },
+    {
+      "id": "Q26",
+      "level": 2,
+      "questionType": "typeIn",
+      "question": "Convert 7 m to mm",
+      "correctAnswer": "7000",
+      "choices": [],
+      "hint": "1 m = 1000 mm"
+    },
+    {
+      "id": "Q27",
+      "level": 2,
+      "questionType": "multipleChoice",
+      "question": "How many m are in 800 cm?",
+      "correctAnswer": "8",
+      "choices": ["8", "0.8", "80"],
+      "hint": "Divide by 100"
+    },
+    {
+      "id": "Q28",
+      "level": 2,
+      "questionType": "typeIn",
+      "question": "Convert 1500 mm to m",
+      "correctAnswer": "1.5",
+      "choices": [],
+      "hint": "Divide by 1000"
+    },
+    {
+      "id": "Q29",
+      "level": 2,
+      "questionType": "multipleChoice",
+      "question": "Convert 0.3 m to mm",
+      "correctAnswer": "300",
+      "choices": ["30", "300", "3000"],
+      "hint": "Multiply 0.3 by 1000"
+    },
+    {
+      "id": "Q30",
+      "level": 2,
+      "questionType": "typeIn",
+      "question": "Convert 5 m to cm",
+      "correctAnswer": "500",
+      "choices": [],
+      "hint": "Multiply by 100"
+    },
+    {
+      "id": "Q31",
+      "level": 3,
+      "questionType": "typeIn",
+      "question": "Convert 20 m to dam",
+      "correctAnswer": "2",
+      "choices": [],
+      "hint": "1 dam = 10 m"
+    },
+    {
+      "id": "Q32",
+      "level": 3,
+      "questionType": "multipleChoice",
+      "question": "How many m are in 4 dam?",
+      "correctAnswer": "40",
+      "choices": ["4", "40", "400"],
+      "hint": "Multiply dam by 10"
+    },
+    {
+      "id": "Q33",
+      "level": 3,
+      "questionType": "typeIn",
+      "question": "Convert 35 m to dam",
+      "correctAnswer": "3.5",
+      "choices": [],
+      "hint": "Divide by 10"
+    },
+    {
+      "id": "Q34",
+      "level": 3,
+      "questionType": "multipleChoice",
+      "question": "Convert 50 dam to m",
+      "correctAnswer": "500",
+      "choices": ["50", "500", "5000"],
+      "hint": "Multiply by 10"
+    },
+    {
+      "id": "Q35",
+      "level": 3,
+      "questionType": "typeIn",
+      "question": "Convert 100 m to dam",
+      "correctAnswer": "10",
+      "choices": [],
+      "hint": "Divide by 10"
+    },
+    {
+      "id": "Q36",
+      "level": 3,
+      "questionType": "typeIn",
+      "question": "How many dam are in 70 m?",
+      "correctAnswer": "7",
+      "choices": [],
+      "hint": "Divide 70 by 10"
+    },
+    {
+      "id": "Q37",
+      "level": 3,
+      "questionType": "multipleChoice",
+      "question": "Convert 2.5 dam to m",
+      "correctAnswer": "25",
+      "choices": ["25", "2.5", "250"],
+      "hint": "Multiply by 10"
+    },
+    {
+      "id": "Q38",
+      "level": 3,
+      "questionType": "typeIn",
+      "question": "Convert 90 m to dam",
+      "correctAnswer": "9",
+      "choices": [],
+      "hint": "Divide by 10"
+    },
+    {
+      "id": "Q39",
+      "level": 3,
+      "questionType": "multipleChoice",
+      "question": "How many m are in 3.2 dam?",
+      "correctAnswer": "32",
+      "choices": ["32", "3.2", "320"],
+      "hint": "Multiply dam by 10"
+    },
+    {
+      "id": "Q40",
+      "level": 3,
+      "questionType": "typeIn",
+      "question": "Convert 45 m to dam",
+      "correctAnswer": "4.5",
+      "choices": [],
+      "hint": "Divide by 10"
+    },
+    {
+      "id": "Q41",
+      "level": 3,
+      "questionType": "multipleChoice",
+      "question": "Convert 7 dam to m",
+      "correctAnswer": "70",
+      "choices": ["70", "7", "700"],
+      "hint": "Multiply by 10"
+    },
+    {
+      "id": "Q42",
+      "level": 3,
+      "questionType": "typeIn",
+      "question": "Convert 80 m to dam",
+      "correctAnswer": "8",
+      "choices": [],
+      "hint": "Divide by 10"
+    },
+    {
+      "id": "Q43",
+      "level": 3,
+      "questionType": "multipleChoice",
+      "question": "How many m are in 5 dam?",
+      "correctAnswer": "50",
+      "choices": ["50", "5", "500"],
+      "hint": "Multiply dam by 10"
+    },
+    {
+      "id": "Q44",
+      "level": 3,
+      "questionType": "typeIn",
+      "question": "Convert 60 m to dam",
+      "correctAnswer": "6",
+      "choices": [],
+      "hint": "Divide by 10"
+    },
+    {
+      "id": "Q45",
+      "level": 3,
+      "questionType": "multipleChoice",
+      "question": "Convert 3.5 dam to m",
+      "correctAnswer": "35",
+      "choices": ["35", "3.5", "350"],
+      "hint": "Multiply by 10"
+    },
+    {
+      "id": "Q46",
+      "level": 4,
+      "questionType": "typeIn",
+      "question": "Convert 200 m to hm",
+      "correctAnswer": "2",
+      "choices": [],
+      "hint": "1 hm = 100 m"
+    },
+    {
+      "id": "Q47",
+      "level": 4,
+      "questionType": "multipleChoice",
+      "question": "How many m are in 3 hm?",
+      "correctAnswer": "300",
+      "choices": ["30", "300", "3000"],
+      "hint": "Multiply hm by 100"
+    },
+    {
+      "id": "Q48",
+      "level": 4,
+      "questionType": "typeIn",
+      "question": "Convert 450 m to hm",
+      "correctAnswer": "4.5",
+      "choices": [],
+      "hint": "Divide by 100"
+    },
+    {
+      "id": "Q49",
+      "level": 4,
+      "questionType": "multipleChoice",
+      "question": "Convert 2 hm to m",
+      "correctAnswer": "200",
+      "choices": ["20", "200", "2000"],
+      "hint": "Multiply by 100"
+    },
+    {
+      "id": "Q50",
+      "level": 4,
+      "questionType": "typeIn",
+      "question": "Convert 100 m to hm",
+      "correctAnswer": "1",
+      "choices": [],
+      "hint": "Divide by 100"
+    },
+    {
+      "id": "Q51",
+      "level": 4,
+      "questionType": "typeIn",
+      "question": "How many hm are in 750 m?",
+      "correctAnswer": "7.5",
+      "choices": [],
+      "hint": "Divide 750 by 100"
+    },
+    {
+      "id": "Q52",
+      "level": 4,
+      "questionType": "multipleChoice",
+      "question": "Convert 600 m to hm",
+      "correctAnswer": "6",
+      "choices": ["6", "0.6", "60"],
+      "hint": "Divide by 100"
+    },
+    {
+      "id": "Q53",
+      "level": 4,
+      "questionType": "typeIn",
+      "question": "Convert 350 m to hm",
+      "correctAnswer": "3.5",
+      "choices": [],
+      "hint": "Divide by 100"
+    },
+    {
+      "id": "Q54",
+      "level": 4,
+      "questionType": "multipleChoice",
+      "question": "How many m are in 1.2 hm?",
+      "correctAnswer": "120",
+      "choices": ["12", "120", "1200"],
+      "hint": "Multiply hm by 100"
+    },
+    {
+      "id": "Q55",
+      "level": 4,
+      "questionType": "typeIn",
+      "question": "Convert 800 m to hm",
+      "correctAnswer": "8",
+      "choices": [],
+      "hint": "Divide by 100"
+    },
+    {
+      "id": "Q56",
+      "level": 4,
+      "questionType": "multipleChoice",
+      "question": "Convert 5 hm to m",
+      "correctAnswer": "500",
+      "choices": ["50", "500", "5000"],
+      "hint": "Multiply by 100"
+    },
+    {
+      "id": "Q57",
+      "level": 4,
+      "questionType": "typeIn",
+      "question": "Convert 900 m to hm",
+      "correctAnswer": "9",
+      "choices": [],
+      "hint": "Divide by 100"
+    },
+    {
+      "id": "Q58",
+      "level": 4,
+      "questionType": "multipleChoice",
+      "question": "How many m are in 2.5 hm?",
+      "correctAnswer": "250",
+      "choices": ["25", "250", "2500"],
+      "hint": "Multiply by 100"
+    },
+    {
+      "id": "Q59",
+      "level": 4,
+      "questionType": "typeIn",
+      "question": "Convert 400 m to hm",
+      "correctAnswer": "4",
+      "choices": [],
+      "hint": "Divide by 100"
+    },
+    {
+      "id": "Q60",
+      "level": 4,
+      "questionType": "multipleChoice",
+      "question": "Convert 1.8 hm to m",
+      "correctAnswer": "180",
+      "choices": ["18", "180", "1800"],
+      "hint": "Multiply by 100"
+    },
+    {
+      "id": "Q61",
+      "level": 5,
+      "questionType": "typeIn",
+      "question": "Convert 3000 m to km",
+      "correctAnswer": "3",
+      "choices": [],
+      "hint": "1 km = 1000 m"
+    },
+    {
+      "id": "Q62",
+      "level": 5,
+      "questionType": "multipleChoice",
+      "question": "How many m are in 2 km?",
+      "correctAnswer": "2000",
+      "choices": ["200", "2000", "20000"],
+      "hint": "Multiply km by 1000"
+    },
+    {
+      "id": "Q63",
+      "level": 5,
+      "questionType": "typeIn",
+      "question": "Convert 5000 m to km",
+      "correctAnswer": "5",
+      "choices": [],
+      "hint": "Divide by 1000"
+    },
+    {
+      "id": "Q64",
+      "level": 5,
+      "questionType": "multipleChoice",
+      "question": "Convert 1 km to m",
+      "correctAnswer": "1000",
+      "choices": ["10", "1000", "10000"],
+      "hint": "Multiply by 1000"
+    },
+    {
+      "id": "Q65",
+      "level": 5,
+      "questionType": "typeIn",
+      "question": "Convert 750 m to km",
+      "correctAnswer": "0.75",
+      "choices": [],
+      "hint": "Divide by 1000"
+    },
+    {
+      "id": "Q66",
+      "level": 5,
+      "questionType": "typeIn",
+      "question": "How many km are in 6000 m?",
+      "correctAnswer": "6",
+      "choices": [],
+      "hint": "Divide by 1000"
+    },
+    {
+      "id": "Q67",
+      "level": 5,
+      "questionType": "multipleChoice",
+      "question": "Convert 1200 m to km",
+      "correctAnswer": "1.2",
+      "choices": ["0.12", "1.2", "12"],
+      "hint": "Divide by 1000"
+    },
+    {
+      "id": "Q68",
+      "level": 5,
+      "questionType": "typeIn",
+      "question": "Convert 2500 m to km",
+      "correctAnswer": "2.5",
+      "choices": [],
+      "hint": "Divide by 1000"
+    },
+    {
+      "id": "Q69",
+      "level": 5,
+      "questionType": "multipleChoice",
+      "question": "How many m are in 0.9 km?",
+      "correctAnswer": "900",
+      "choices": ["9", "90", "900"],
+      "hint": "Multiply by 1000"
+    },
+    {
+      "id": "Q70",
+      "level": 5,
+      "questionType": "typeIn",
+      "question": "Convert 4000 m to km",
+      "correctAnswer": "4",
+      "choices": [],
+      "hint": "Divide by 1000"
+    },
+    {
+      "id": "Q71",
+      "level": 5,
+      "questionType": "multipleChoice",
+      "question": "Convert 0.5 km to m",
+      "correctAnswer": "500",
+      "choices": ["50", "500", "5000"],
+      "hint": "Multiply by 1000"
+    },
+    {
+      "id": "Q72",
+      "level": 5,
+      "questionType": "typeIn",
+      "question": "How many km are in 8000 m?",
+      "correctAnswer": "8",
+      "choices": [],
+      "hint": "Divide by 1000"
+    },
+    {
+      "id": "Q73",
+      "level": 5,
+      "questionType": "multipleChoice",
+      "question": "Convert 3500 m to km",
+      "correctAnswer": "3.5",
+      "choices": ["3.5", "35", "0.35"],
+      "hint": "Divide by 1000"
+    },
+    {
+      "id": "Q74",
+      "level": 5,
+      "questionType": "typeIn",
+      "question": "Convert 200 m to km",
+      "correctAnswer": "0.2",
+      "choices": [],
+      "hint": "Divide by 1000"
+    },
+    {
+      "id": "Q75",
+      "level": 5,
+      "questionType": "multipleChoice",
+      "question": "How many m are in 1.5 km?",
+      "correctAnswer": "1500",
+      "choices": ["150", "1500", "15000"],
+      "hint": "Multiply km by 1000"
+    },
+    {
+      "id": "Q76",
+      "level": 6,
+      "questionType": "typeIn",
+      "question": "Convert 2500 mm to m",
+      "correctAnswer": "2.5",
+      "choices": [],
+      "hint": "Divide mm by 1000"
+    },
+    {
+      "id": "Q77",
+      "level": 6,
+      "questionType": "multipleChoice",
+      "question": "How many cm are in 3.5 m?",
+      "correctAnswer": "350",
+      "choices": ["35", "350", "3500"],
+      "hint": "Multiply m by 100"
+    },
+    {
+      "id": "Q78",
+      "level": 6,
+      "questionType": "typeIn",
+      "question": "Convert 4500 mm to cm",
+      "correctAnswer": "450",
+      "choices": [],
+      "hint": "Divide by 10 after converting to cm"
+    },
+    {
+      "id": "Q79",
+      "level": 6,
+      "questionType": "multipleChoice",
+      "question": "Convert 7 m to dm",
+      "correctAnswer": "70",
+      "choices": ["7", "70", "700"],
+      "hint": "Multiply m by 10"
+    },
+    {
+      "id": "Q80",
+      "level": 6,
+      "questionType": "typeIn",
+      "question": "Convert 8000 mm to m",
+      "correctAnswer": "8",
+      "choices": [],
+      "hint": "Divide by 1000"
+    },
+    {
+      "id": "Q81",
+      "level": 6,
+      "questionType": "typeIn",
+      "question": "How many dm are in 2 m?",
+      "correctAnswer": "20",
+      "choices": [],
+      "hint": "Multiply m by 10"
+    },
+    {
+      "id": "Q82",
+      "level": 6,
+      "questionType": "multipleChoice",
+      "question": "Convert 5600 cm to m",
+      "correctAnswer": "5.6",
+      "choices": ["5.6", "56", "560"],
+      "hint": "Divide by 100"
+    },
+    {
+      "id": "Q83",
+      "level": 6,
+      "questionType": "typeIn",
+      "question": "Convert 3.2 m to mm",
+      "correctAnswer": "3200",
+      "choices": [],
+      "hint": "Multiply m by 1000"
+    },
+    {
+      "id": "Q84",
+      "level": 6,
+      "questionType": "multipleChoice",
+      "question": "How many m are in 15000 mm?",
+      "correctAnswer": "15",
+      "choices": ["1.5", "15", "150"],
+      "hint": "Divide mm by 1000"
+    },
+    {
+      "id": "Q85",
+      "level": 6,
+      "questionType": "typeIn",
+      "question": "Convert 2400 cm to m",
+      "correctAnswer": "24",
+      "choices": [],
+      "hint": "Divide by 100"
+    },
+    {
+      "id": "Q86",
+      "level": 6,
+      "questionType": "multipleChoice",
+      "question": "Convert 9000 mm to cm",
+      "correctAnswer": "900",
+      "choices": ["90", "900", "9000"],
+      "hint": "Divide by 10"
+    },
+    {
+      "id": "Q87",
+      "level": 6,
+      "questionType": "typeIn",
+      "question": "How many mm are in 4.5 m?",
+      "correctAnswer": "4500",
+      "choices": [],
+      "hint": "Multiply m by 1000"
+    },
+    {
+      "id": "Q88",
+      "level": 6,
+      "questionType": "multipleChoice",
+      "question": "Convert 2.8 m to dm",
+      "correctAnswer": "28",
+      "choices": ["28", "2.8", "280"],
+      "hint": "Multiply m by 10"
+    },
+    {
+      "id": "Q89",
+      "level": 6,
+      "questionType": "typeIn",
+      "question": "Convert 3600 cm to m",
+      "correctAnswer": "36",
+      "choices": [],
+      "hint": "Divide by 100"
+    },
+    {
+      "id": "Q90",
+      "level": 6,
+      "questionType": "multipleChoice",
+      "question": "How many cm are in 0.9 m?",
+      "correctAnswer": "90",
+      "choices": ["9", "90", "900"],
+      "hint": "Multiply by 100"
+    },
+    {
+      "id": "Q91",
+      "level": 7,
+      "questionType": "multipleChoice",
+      "question": "Which conversion is correct: 1 cm equals:",
+      "correctAnswer": "10 mm",
+      "choices": ["10 mm", "0.1 mm", "100 mm", "1 mm"],
+      "hint": "Remember: 1 cm = 10 mm"
+    },
+    {
+      "id": "Q92",
+      "level": 7,
+      "questionType": "multipleChoice",
+      "question": "Which conversion is correct: 1 m equals:",
+      "correctAnswer": "100 cm",
+      "choices": ["10 cm", "100 cm", "1000 cm", "1 cm"],
+      "hint": "1 m = 100 cm"
+    },
+    {
+      "id": "Q93",
+      "level": 7,
+      "questionType": "multipleChoice",
+      "question": "Which conversion is correct: 1 dm equals:",
+      "correctAnswer": "10 cm",
+      "choices": ["1 cm", "10 cm", "100 cm", "0.1 cm"],
+      "hint": "1 dm = 10 cm"
+    },
+    {
+      "id": "Q94",
+      "level": 7,
+      "questionType": "multipleChoice",
+      "question": "Which conversion is correct: 1 km equals:",
+      "correctAnswer": "1000 m",
+      "choices": ["100 m", "1000 m", "10 m", "1 m"],
+      "hint": "1 km = 1000 m"
+    },
+    {
+      "id": "Q95",
+      "level": 7,
+      "questionType": "multipleChoice",
+      "question": "Which conversion is correct: 1 dam equals:",
+      "correctAnswer": "10 m",
+      "choices": ["1 m", "10 m", "100 m", "1000 m"],
+      "hint": "1 dam = 10 m"
+    },
+    {
+      "id": "Q96",
+      "level": 7,
+      "questionType": "multipleChoice",
+      "question": "Which conversion is correct: 1 hm equals:",
+      "correctAnswer": "100 m",
+      "choices": ["10 m", "100 m", "1000 m", "1 m"],
+      "hint": "1 hm = 100 m"
+    },
+    {
+      "id": "Q97",
+      "level": 7,
+      "questionType": "multipleChoice",
+      "question": "Which conversion is correct: 1 m equals:",
+      "correctAnswer": "0.001 km",
+      "choices": ["0.1 km", "0.01 km", "0.001 km", "1 km"],
+      "hint": "1 m = 0.001 km"
+    },
+    {
+      "id": "Q98",
+      "level": 7,
+      "questionType": "multipleChoice",
+      "question": "Which conversion is correct: 1 cm equals:",
+      "correctAnswer": "0.01 m",
+      "choices": ["0.1 m", "0.01 m", "0.001 m", "1 m"],
+      "hint": "1 cm = 0.01 m"
+    },
+    {
+      "id": "Q99",
+      "level": 7,
+      "questionType": "multipleChoice",
+      "question": "Which conversion is correct: 1 mm equals:",
+      "correctAnswer": "0.1 cm",
+      "choices": ["0.1 cm", "1 cm", "0.01 cm", "10 cm"],
+      "hint": "1 mm = 0.1 cm"
+    },
+    {
+      "id": "Q100",
+      "level": 7,
+      "questionType": "multipleChoice",
+      "question": "Which conversion is correct: 1 dam equals:",
+      "correctAnswer": "0.1 hm",
+      "choices": ["0.1 hm", "1 hm", "10 hm", "0.01 hm"],
+      "hint": "1 dam = 10 m and 1 hm = 100 m, so 1 dam = 0.1 hm"
+    },
+    {
+      "id": "Q101",
+      "level": 7,
+      "questionType": "multipleChoice",
+      "question": "Which conversion is correct: 1 hm equals:",
+      "correctAnswer": "0.1 km",
+      "choices": ["0.1 km", "1 km", "10 km", "0.01 km"],
+      "hint": "1 hm = 100 m and 1 km = 1000 m"
+    },
+    {
+      "id": "Q102",
+      "level": 7,
+      "questionType": "multipleChoice",
+      "question": "Which conversion is correct: 1 km equals:",
+      "correctAnswer": "10 dam",
+      "choices": ["10 dam", "100 dam", "1 dam", "0.1 dam"],
+      "hint": "1 km = 1000 m and 1 dam = 10 m"
+    },
+    {
+      "id": "Q103",
+      "level": 7,
+      "questionType": "multipleChoice",
+      "question": "Which conversion is correct: 1 dm equals:",
+      "correctAnswer": "0.1 m",
+      "choices": ["0.1 m", "1 m", "10 m", "0.01 m"],
+      "hint": "1 dm = 0.1 m"
+    },
+    {
+      "id": "Q104",
+      "level": 7,
+      "questionType": "multipleChoice",
+      "question": "Which conversion is correct: 1 m equals:",
+      "correctAnswer": "10 dm",
+      "choices": ["10 dm", "100 dm", "1 dm", "0.1 dm"],
+      "hint": "1 m = 10 dm"
+    },
+    {
+      "id": "Q105",
+      "level": 7,
+      "questionType": "multipleChoice",
+      "question": "Which conversion is correct: 1 cm equals:",
+      "correctAnswer": "0.1 dm",
+      "choices": ["0.1 dm", "1 dm", "10 dm", "0.01 dm"],
+      "hint": "1 cm = 0.1 dm"
+    },
+    {
+      "id": "Q106",
+      "level": 8,
+      "questionType": "typeIn",
+      "question": "A pencil is 15 cm long. How many mm long is it?",
+      "correctAnswer": "150",
+      "choices": [],
+      "hint": "Multiply cm by 10"
+    },
+    {
+      "id": "Q107",
+      "level": 8,
+      "questionType": "multipleChoice",
+      "question": "A classroom door is 2 m high. How many cm is that?",
+      "correctAnswer": "200",
+      "choices": ["20", "200", "2000"],
+      "hint": "Multiply m by 100"
+    },
+    {
+      "id": "Q108",
+      "level": 8,
+      "questionType": "typeIn",
+      "question": "A car is 4.5 m long. Convert this length to cm.",
+      "correctAnswer": "450",
+      "choices": [],
+      "hint": "Multiply m by 100"
+    },
+    {
+      "id": "Q109",
+      "level": 8,
+      "questionType": "multipleChoice",
+      "question": "A river is 3 km wide. How many m wide is it?",
+      "correctAnswer": "3000",
+      "choices": ["300", "3000", "30000"],
+      "hint": "Multiply km by 1000"
+    },
+    {
+      "id": "Q110",
+      "level": 8,
+      "questionType": "typeIn",
+      "question": "A soccer field is 90 m long. Convert its length to cm.",
+      "correctAnswer": "9000",
+      "choices": [],
+      "hint": "Multiply m by 100"
+    },
+    {
+      "id": "Q111",
+      "level": 8,
+      "questionType": "multipleChoice",
+      "question": "A flagpole is 12 m high. How many mm is that?",
+      "correctAnswer": "12000",
+      "choices": ["1200", "12000", "120000"],
+      "hint": "Multiply m by 1000"
+    },
+    {
+      "id": "Q112",
+      "level": 8,
+      "questionType": "typeIn",
+      "question": "If a ribbon is 75 cm long, how many mm long is it?",
+      "correctAnswer": "750",
+      "choices": [],
+      "hint": "Multiply by 10"
+    },
+    {
+      "id": "Q113",
+      "level": 8,
+      "questionType": "multipleChoice",
+      "question": "If a book is 0.2 m thick, how many mm thick is it?",
+      "correctAnswer": "200",
+      "choices": ["20", "200", "2000"],
+      "hint": "Multiply m by 1000"
+    },
+    {
+      "id": "Q114",
+      "level": 8,
+      "questionType": "typeIn",
+      "question": "A school bus is 10 m long. Convert this to cm.",
+      "correctAnswer": "1000",
+      "choices": [],
+      "hint": "Multiply m by 100"
+    },
+    {
+      "id": "Q115",
+      "level": 8,
+      "questionType": "multipleChoice",
+      "question": "A garden is 0.5 km long. How many m is that?",
+      "correctAnswer": "500",
+      "choices": ["50", "500", "5000"],
+      "hint": "Multiply km by 1000"
+    },
+    {
+      "id": "Q116",
+      "level": 8,
+      "questionType": "typeIn",
+      "question": "A ribbon measures 120 cm. Convert it to m.",
+      "correctAnswer": "1.2",
+      "choices": [],
+      "hint": "Divide by 100"
+    },
+    {
+      "id": "Q117",
+      "level": 8,
+      "questionType": "multipleChoice",
+      "question": "A building is 1.5 km tall. Convert its height to m.",
+      "correctAnswer": "1500",
+      "choices": ["150", "1500", "15000"],
+      "hint": "Multiply km by 1000"
+    },
+    {
+      "id": "Q118",
+      "level": 8,
+      "questionType": "typeIn",
+      "question": "A runner's track is 400 m long. Convert this to km.",
+      "correctAnswer": "0.4",
+      "choices": [],
+      "hint": "Divide m by 1000"
+    },
+    {
+      "id": "Q119",
+      "level": 8,
+      "questionType": "multipleChoice",
+      "question": "A bridge spans 250 m. How many dm is that?",
+      "correctAnswer": "2500",
+      "choices": ["250", "2500", "25"],
+      "hint": "Multiply m by 10"
+    },
+    {
+      "id": "Q120",
+      "level": 8,
+      "questionType": "typeIn",
+      "question": "A road is 5000 m long. Convert this length to km.",
+      "correctAnswer": "5",
+      "choices": [],
+      "hint": "Divide by 1000"
+    },
+    {
+      "id": "Q121",
+      "level": 9,
+      "questionType": "typeIn",
+      "question": "Convert 0.75 m to cm",
+      "correctAnswer": "75",
+      "choices": [],
+      "hint": "Multiply by 100"
+    },
+    {
+      "id": "Q122",
+      "level": 9,
+      "questionType": "multipleChoice",
+      "question": "Convert 2.35 m to cm",
+      "correctAnswer": "235",
+      "choices": ["23.5", "235", "2350"],
+      "hint": "Multiply by 100"
+    },
+    {
+      "id": "Q123",
+      "level": 9,
+      "questionType": "typeIn",
+      "question": "Convert 0.12 km to m",
+      "correctAnswer": "120",
+      "choices": [],
+      "hint": "Multiply km by 1000"
+    },
+    {
+      "id": "Q124",
+      "level": 9,
+      "questionType": "multipleChoice",
+      "question": "Convert 0.045 m to mm",
+      "correctAnswer": "45",
+      "choices": ["4.5", "45", "450"],
+      "hint": "Multiply m by 1000"
+    },
+    {
+      "id": "Q125",
+      "level": 9,
+      "questionType": "typeIn",
+      "question": "Convert 3.6 dm to cm",
+      "correctAnswer": "36",
+      "choices": [],
+      "hint": "Multiply by 10"
+    },
+    {
+      "id": "Q126",
+      "level": 9,
+      "questionType": "multipleChoice",
+      "question": "Convert 5.25 m to dm",
+      "correctAnswer": "52.5",
+      "choices": ["5.25", "52.5", "525"],
+      "hint": "Multiply m by 10"
+    },
+    {
+      "id": "Q127",
+      "level": 9,
+      "questionType": "typeIn",
+      "question": "Convert 1.08 m to cm",
+      "correctAnswer": "108",
+      "choices": [],
+      "hint": "Multiply by 100"
+    },
+    {
+      "id": "Q128",
+      "level": 9,
+      "questionType": "multipleChoice",
+      "question": "Convert 0.99 m to mm",
+      "correctAnswer": "990",
+      "choices": ["99", "990", "9900"],
+      "hint": "Multiply by 1000"
+    },
+    {
+      "id": "Q129",
+      "level": 9,
+      "questionType": "typeIn",
+      "question": "Convert 0.33 dm to mm",
+      "correctAnswer": "33",
+      "choices": [],
+      "hint": "1 dm = 10 cm and 1 cm = 10 mm"
+    },
+    {
+      "id": "Q130",
+      "level": 9,
+      "questionType": "multipleChoice",
+      "question": "Convert 2.5 km to m",
+      "correctAnswer": "2500",
+      "choices": ["250", "2500", "25000"],
+      "hint": "Multiply km by 1000"
+    },
+    {
+      "id": "Q131",
+      "level": 9,
+      "questionType": "typeIn",
+      "question": "Convert 1.2 dm to cm",
+      "correctAnswer": "12",
+      "choices": [],
+      "hint": "Multiply by 10"
+    },
+    {
+      "id": "Q132",
+      "level": 9,
+      "questionType": "multipleChoice",
+      "question": "Convert 0.004 km to m",
+      "correctAnswer": "4",
+      "choices": ["0.4", "4", "40"],
+      "hint": "Multiply km by 1000"
+    },
+    {
+      "id": "Q133",
+      "level": 9,
+      "questionType": "typeIn",
+      "question": "Convert 0.8 m to dm",
+      "correctAnswer": "8",
+      "choices": [],
+      "hint": "Multiply m by 10"
+    },
+    {
+      "id": "Q134",
+      "level": 9,
+      "questionType": "multipleChoice",
+      "question": "Convert 0.07 m to cm",
+      "correctAnswer": "7",
+      "choices": ["0.7", "7", "70"],
+      "hint": "Multiply m by 100"
+    },
+    {
+      "id": "Q135",
+      "level": 9,
+      "questionType": "typeIn",
+      "question": "Convert 1.5 dm to mm",
+      "correctAnswer": "15",
+      "choices": [],
+      "hint": "1 dm = 10 cm and 1 cm = 10 mm"
+    },
+    {
+      "id": "Q136",
+      "level": 10,
+      "questionType": "typeIn",
+      "question": "Convert 1250 mm to m",
+      "correctAnswer": "1.25",
+      "choices": [],
+      "hint": "Divide mm by 1000"
+    },
+    {
+      "id": "Q137",
+      "level": 10,
+      "questionType": "multipleChoice",
+      "question": "Convert 3.75 m to dam",
+      "correctAnswer": "0.375",
+      "choices": ["0.0375", "0.375", "3.75"],
+      "hint": "Divide m by 10"
+    },
+    {
+      "id": "Q138",
+      "level": 10,
+      "questionType": "typeIn",
+      "question": "Convert 0.48 km to hm",
+      "correctAnswer": "4.8",
+      "choices": [],
+      "hint": "1 km = 1000 m and 1 hm = 100 m"
+    },
+    {
+      "id": "Q139",
+      "level": 10,
+      "questionType": "multipleChoice",
+      "question": "Convert 6750 mm to cm",
+      "correctAnswer": "675",
+      "choices": ["67.5", "675", "6750"],
+      "hint": "Divide mm by 10"
+    },
+    {
+      "id": "Q140",
+      "level": 10,
+      "questionType": "typeIn",
+      "question": "Convert 4.2 dam to m",
+      "correctAnswer": "42",
+      "choices": [],
+      "hint": "Multiply dam by 10"
+    },
+    {
+      "id": "Q141",
+      "level": 10,
+      "questionType": "multipleChoice",
+      "question": "Convert 0.9 hm to m",
+      "correctAnswer": "90",
+      "choices": ["9", "90", "900"],
+      "hint": "Multiply hm by 100"
+    },
+    {
+      "id": "Q142",
+      "level": 10,
+      "questionType": "typeIn",
+      "question": "Convert 2.25 km to m",
+      "correctAnswer": "2250",
+      "choices": [],
+      "hint": "Multiply km by 1000"
+    },
+    {
+      "id": "Q143",
+      "level": 10,
+      "questionType": "multipleChoice",
+      "question": "Convert 4500 cm to m",
+      "correctAnswer": "45",
+      "choices": ["4.5", "45", "450"],
+      "hint": "Divide by 100"
+    },
+    {
+      "id": "Q144",
+      "level": 10,
+      "questionType": "typeIn",
+      "question": "Convert 800 mm to dm",
+      "correctAnswer": "8",
+      "choices": [],
+      "hint": "First convert mm to cm, then cm to dm"
+    },
+    {
+      "id": "Q145",
+      "level": 10,
+      "questionType": "multipleChoice",
+      "question": "Convert 6.3 m to dm",
+      "correctAnswer": "63",
+      "choices": ["6.3", "63", "630"],
+      "hint": "Multiply m by 10"
+    },
+    {
+      "id": "Q146",
+      "level": 10,
+      "questionType": "typeIn",
+      "question": "Convert 0.56 hm to dam",
+      "correctAnswer": "5.6",
+      "choices": [],
+      "hint": "1 hm = 100 m, 1 dam = 10 m"
+    },
+    {
+      "id": "Q147",
+      "level": 10,
+      "questionType": "multipleChoice",
+      "question": "Convert 3.2 km to hm",
+      "correctAnswer": "32",
+      "choices": ["3.2", "32", "320"],
+      "hint": "Multiply km by 1000 then divide by 100"
+    },
+    {
+      "id": "Q148",
+      "level": 10,
+      "questionType": "typeIn",
+      "question": "Convert 8400 mm to m",
+      "correctAnswer": "8.4",
+      "choices": [],
+      "hint": "Divide mm by 1000"
+    },
+    {
+      "id": "Q149",
+      "level": 10,
+      "questionType": "multipleChoice",
+      "question": "Convert 7.5 dam to hm",
+      "correctAnswer": "0.75",
+      "choices": ["0.075", "0.75", "7.5"],
+      "hint": "1 dam = 10 m, 1 hm = 100 m"
+    },
+    {
+      "id": "Q150",
+      "level": 10,
+      "questionType": "typeIn",
+      "question": "Convert 1.05 km to m",
+      "correctAnswer": "1050",
+      "choices": [],
+      "hint": "Multiply km by 1000"
+    }
+  ]
+  
