@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>308 Measurement Conversions</title>
+  <!-- Link to external CSS file -->
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <div id="game-container">
+    <!-- Title/Welcome Screen (Default) -->
+    <div id="title-screen" class="active">
+      <h1>308 Measurement Conversions</h1>
+      <h3>Test your metric conversion skills!</h3>
+      <div style="text-align:center; margin-top:50px;">
+        <button class="btn" id="start-button">Start Game</button>
+      </div>
+    </div>
+
+    <!-- Question Screen -->
+    <div id="question-screen">
+      <h2>Level <span id="level-label"></span></h2>
+      <div id="question-text"></div>
+      <div id="hint-box"></div>
+      <div id="choices-container"></div>
+      <div style="text-align:center;">
+        <button class="btn" id="hint-button">Hint</button>
+        <button class="btn" id="check-button">Check</button>
+      </div>
+      <div id="scoreboard"></div>
+    </div>
+
+    <!-- Final Screen -->
+    <div id="final-screen">
+      <h1>All Done!</h1>
+      <h3 id="final-message"></h3>
+      <div style="text-align:center; margin-top:50px;">
+        <button class="btn" id="restart-button">Play Again</button>
+      </div>
+    </div>
+  </div>
+
+  <!-- Reference the external JavaScript file -->
+  <script src="script.js"></script>
+</body>
+</html>
